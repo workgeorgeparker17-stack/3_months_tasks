@@ -1,0 +1,5 @@
+ism  = input("Ism kiriting: ")
+a = ord(ism[0]) + ord(ism[1]) + ord(ism[2])
+print(a)
+print(4*2)
+print(2**4)

@@ -1,0 +1,7 @@
+matn = input("Matn kiriting: ")
+a = matn.isalpha()
+b = matn.isdigit()
+c = matn.isalnum()
+print(f"Faqat harfmi? {a}")
+print(f"Faqat raqammi? {b}")
+print(f"Harf va raqammi? {c}")
